@@ -35,5 +35,5 @@ Após a geração do áudio, o episódio passa por uma etapa de revisão e ediç
 ## 🚀 Resultados
 A utilização do notebookLM resultou em um podcast de qualidade satisfatória. Embora seja perceptível que a produção foi gerada por inteligência artificial, a clareza, entonação e estrutura do conteúdo demonstram um nível de excelência notável. Dessa forma, a tecnologia se apresenta como uma alternativa viável para produções automatizadas, garantindo um resultado sofisticado e bem elaborado.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://github.com/reghyx/lab-natty-or-not/blob/main/exemplos/IA-Generativa_-O-que-%C3%A9-e-como-funciona_.mp3)
 
