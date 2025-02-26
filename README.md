@@ -1,51 +1,39 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast: Descobrindo IAs Generativas em 20 Minutos 🎙️
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este podcast de 5 minutos leva você a uma jornada envolvente pelo fascinante mundo das IAs Generativas. Explore sua influência na tecnologia moderna, descobrindo como transformam a criatividade, a automação e a inovação. Uma experiência breve, mas profunda, para entender o futuro impulsionado pela inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[NotebookLM](https://notebooklm.google.com)** pesquisa, analise, roterisação e geração do audio;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+**1. Pesquisa e Coleta de Informações**
+
+O primeiro passo consiste na pesquisa e coleta de materiais que servirão como base para o episódio. Utilizando o Notebook LM do Google, é possível acessar e processar conteúdos de diversas fontes.
+Documentos e Livros: O sistema pode extrair trechos relevantes de arquivos em formatos como PDF, DOCX e TXT, além de digitalizar e interpretar livros para identificar insights e tópicos importantes.
+Vídeos do YouTube: Por meio de transcrições automáticas, o Notebook LM pode analisar vídeos e converter o conteúdo falado em texto, permitindo uma curadoria eficiente de informações.
+
+**2. Roteirização Automatizada**
+
+Após a coleta de informações, o próximo passo é estruturar o conteúdo em um roteiro coeso e envolvente. O Notebook LM pode:
+Gerar um resumo automatizado, condensando as informações coletadas.
+Criar uma narrativa estruturada, garantindo fluidez e coerência no episódio.
+Adaptar o tom e estilo, de acordo com a proposta do podcast, tornando o conteúdo mais atrativo para o público.
+
+**3. Geração de Áudio**
+
+Com o roteiro finalizado, a conversão do texto em áudio ocorre por meio de tecnologias de síntese de voz (Text-to-Speech, TTS). O Notebook LM pode integrar-se a APIs avançadas para gerar locuções naturais e envolventes. Algumas características dessa etapa incluem:
+Escolha da voz e entonação, garantindo um tom agradável e adequado ao tema.
+Inserção de pausas e ênfases, para simular uma narração humana mais realista.
+Mixagem com trilha sonora e efeitos, adicionando camadas de som para enriquecer a experiência do ouvinte.
+
+**4. Edição e Publicação**
+
+Após a geração do áudio, o episódio passa por uma etapa de revisão e edição, onde são feitos ajustes para garantir a melhor qualidade sonora. O conteúdo final pode ser publicado automaticamente em plataformas de podcast, como Spotify, Apple Podcasts e Google Podcasts.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A utilização do notebook LM resultou em um podcast de qualidade satisfatória. Embora seja perceptível que a produção foi gerada por inteligência artificial, a clareza, entonação e estrutura do conteúdo demonstram um nível de excelência notável. Dessa forma, a tecnologia se apresenta como uma alternativa viável para produções automatizadas, garantindo um resultado sofisticado e bem elaborado.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O PODCAST AQUI]()
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
