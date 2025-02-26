@@ -1,7 +1,7 @@
 # Podcast: Descobrindo IAs Generativas em 20 Minutos 🎙️
 
 ## 📒 Descrição
-Este podcast de 5 minutos leva você a uma jornada envolvente pelo fascinante mundo das IAs Generativas. Explore sua influência na tecnologia moderna, descobrindo como transformam a criatividade, a automação e a inovação. Uma experiência breve, mas profunda, para entender o futuro impulsionado pela inteligência artificial.
+Este podcast de 20 minutos leva você a uma jornada envolvente pelo fascinante mundo das IAs Generativas. Explore sua influência na tecnologia moderna, descobrindo como transformam a criatividade, a automação e a inovação. Uma experiência breve, mas profunda, para entender o futuro impulsionado pela inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[NotebookLM](https://notebooklm.google.com)** pesquisa, analise, roterisação e geração do audio;
@@ -33,7 +33,7 @@ Mixagem com trilha sonora e efeitos, adicionando camadas de som para enriquecer 
 Após a geração do áudio, o episódio passa por uma etapa de revisão e edição, onde são feitos ajustes para garantir a melhor qualidade sonora. O conteúdo final pode ser publicado automaticamente em plataformas de podcast, como Spotify, Apple Podcasts e Google Podcasts.
 
 ## 🚀 Resultados
-A utilização do notebook LM resultou em um podcast de qualidade satisfatória. Embora seja perceptível que a produção foi gerada por inteligência artificial, a clareza, entonação e estrutura do conteúdo demonstram um nível de excelência notável. Dessa forma, a tecnologia se apresenta como uma alternativa viável para produções automatizadas, garantindo um resultado sofisticado e bem elaborado.
+A utilização do notebookLM resultou em um podcast de qualidade satisfatória. Embora seja perceptível que a produção foi gerada por inteligência artificial, a clareza, entonação e estrutura do conteúdo demonstram um nível de excelência notável. Dessa forma, a tecnologia se apresenta como uma alternativa viável para produções automatizadas, garantindo um resultado sofisticado e bem elaborado.
 
 [LINK PARA O PODCAST AQUI]()
 
